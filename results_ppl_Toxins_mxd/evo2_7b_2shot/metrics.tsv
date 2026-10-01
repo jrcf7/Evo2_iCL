@@ -1,0 +1,4 @@
+class	precision	recall	f1	support
+tox	0.6226	0.4737	0.5380	418
+neutral	0.5067	0.6532	0.5707	346
+accuracy	0.5550			764

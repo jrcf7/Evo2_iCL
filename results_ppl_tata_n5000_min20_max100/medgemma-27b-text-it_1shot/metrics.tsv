@@ -1,0 +1,4 @@
+class	precision	recall	f1	support
+tata	0.5100	0.5120	0.5110	500
+neutral	0.5100	0.5080	0.5090	500
+accuracy	0.5100			1000

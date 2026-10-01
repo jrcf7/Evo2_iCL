@@ -1,0 +1,10 @@
+Overall Accuracy: 0.5490 (549/1000)
+
+              precision    recall  f1-score   support
+
+        tata       0.55      0.55      0.55       500
+     neutral       0.55      0.55      0.55       500
+
+    accuracy                           0.55      1000
+   macro avg       0.55      0.55      0.55      1000
+weighted avg       0.55      0.55      0.55      1000

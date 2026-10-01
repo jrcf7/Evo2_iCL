@@ -1,0 +1,4 @@
+class	precision	recall	f1	support
+amr	0.4997	0.5382	0.5183	1661
+neutral	0.4997	0.4612	0.4796	1661
+accuracy	0.4997			3322

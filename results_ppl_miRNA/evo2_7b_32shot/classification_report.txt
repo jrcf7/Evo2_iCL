@@ -1,0 +1,10 @@
+Overall Accuracy: 0.8510 (9395/11040)
+
+              precision    recall  f1-score   support
+
+        mrna       0.81      0.92      0.86      5520
+     neutral       0.91      0.78      0.84      5520
+
+    accuracy                           0.85     11040
+   macro avg       0.86      0.85      0.85     11040
+weighted avg       0.86      0.85      0.85     11040

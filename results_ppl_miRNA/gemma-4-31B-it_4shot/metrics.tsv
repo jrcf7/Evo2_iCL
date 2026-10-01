@@ -1,0 +1,4 @@
+class	precision	recall	f1	support
+mrna	0.5138	0.5174	0.5156	5520
+neutral	0.5140	0.5103	0.5121	5520
+accuracy	0.5139			11040

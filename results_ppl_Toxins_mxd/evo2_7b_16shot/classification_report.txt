@@ -1,0 +1,10 @@
+Overall Accuracy: 0.6597 (504/764)
+
+              precision    recall  f1-score   support
+
+         tox       0.77      0.54      0.64       418
+     neutral       0.59      0.80      0.68       346
+
+    accuracy                           0.66       764
+   macro avg       0.68      0.67      0.66       764
+weighted avg       0.69      0.66      0.66       764

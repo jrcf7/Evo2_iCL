@@ -1,6 +1,6 @@
 # Evo2_iCL
 
-In-context learning (ICL) experiments using [Evo2](https://github.com/ArcInstitute/evo2), a long-range genomic foundation model, for DNA sequence classification. The pipeline classifies sequences (e.g. AMR genes vs. neutral, TATA-box-containing vs. neutral) without any fine-tuning by prompting the model with few-shot examples at inference time.
+Code for the paper [Evo 2 as a classification machine: evidence from in-context learning and mechanistic interpretability](https://www.biorxiv.org/content/10.64898/2026.09.30.755330v1) experiments, using [Evo2](https://github.com/ArcInstitute/evo2), a long-range genomic foundation model, for DNA sequence classification. The pipeline classifies sequences (e.g. AMR genes vs. neutral, TATA-box-containing vs. neutral) without any fine-tuning by prompting the model with few-shot examples at inference time.
 
 The perplexity-based ICL strategy is implemented and can be applied to any binary classification task over FASTA-formatted nucleotide sequences:
 
